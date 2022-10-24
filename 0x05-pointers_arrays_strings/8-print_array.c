@@ -1,11 +1,11 @@
 #include "main.h"
 #include <stdio.h>
 /**
-  * print_array - main func
-  * @a: input 1
-  * @n: input 2
-  * Return: void
-  */
+ * print_array - main func
+ * @a: input 1
+ * @n: input 2
+ * Return: void
+ */
 void print_array(int *a, int n)
 {
 int i;
